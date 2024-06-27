@@ -1,3 +1,6 @@
+from math import gcd
+
+
 class Solution:
     def gcdOfStrings(self, str1: str, str2: str) -> str:
         # checks if GCD even exists
